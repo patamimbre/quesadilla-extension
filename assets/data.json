@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Unos de los riesgos a tener en cuenta son las PANTALLAS DE VISUALIZACION DE DATOS",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Siempre que se vaya a manipular un equipo informático este deberá de estar conectado a la corriente",
+        "answer": "Falso"
+    },
+    {
+        "question": "Uno de los riesgos que se debe de controlar es la manipulación manual de cargas",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Las cargas más pesadas se deberán de colocar en las superficies altas",
+        "answer": "Falso"
+    },
+    {
+        "question": "Cuando se realice una actividad, no es necesario que se haga una planificación de la misma",
+        "answer": "Falso"
+    },
+    {
+        "question": "Para evitar las caídas a distinto nivel, será necesario de que los pasillos y zonas de paso no estén obstruidas",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los cables siempre deben de ir por el suelo",
+        "answer": "Falso"
+    },
+    {
+        "question": "Para llegar a las zonas altas, es aconsejable subirnos a la mesa, o en su defecto, a la silla",
+        "answer": "Falso"
+    },
+    {
+        "question": "Cuando se vayan a utilizar productos químicos, es necesario leer la etiqueta de seguridad",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Todo accidente se debe de comunicar para prevenir de que no ocurra más a otro compañero",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Si adviertes de que un armario se tambalea",
+        "answer": "Avisar al personal de mantenimiento"
+    },
+    {
+        "question": "Para un uso correcto de la pantalla",
+        "answer": "Ambas son correctas"
+    },
+    {
+        "question": "La postura en el trabajo es",
+        "answer": "Importante, una buena postura hace rendir más"
+    },
+    {
+        "question": "El programador informático tiene riesgo de sufrir",
+        "answer": "Ambas son correctas"
+    },
+    {
+        "question": "Uso de los cajones",
+        "answer": "Cerrarlo en cuanto sea posible para no entorpecer la circulación"
+    },
+    {
+        "question": "¿Cuáles son los objetivos de los primeros auxilios?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "En caso de accidente, ¿qué significan las siglas del procedimiento de actuación PAS?",
+        "answer": "Proteger, Avisar y Socorrer"
+    },
+    {
+        "question": "¿Qué es necesario para conseguir los objetivos de los primeros auxilios?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Qué situación necesita asistencia médica urgente?",
+        "answer": "Pérdida de conciencia"
+    },
+    {
+        "question": "¿Qué no debe hacerse a la hora de valorar el estado de consciencia de un accidentado?",
+        "answer": "Zarandear"
+    },
+    {
+        "question": "¿Cómo se abren las vías respiratorias de un accidentado?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Qué serie de insuflacionescompresiones debe cumplir el masaje cardíaco?",
+        "answer": "230"
+    },
+    {
+        "question": "¿Para qué se utiliza la maniobra de Heimlich?",
+        "answer": "Para evitar atragantamientos"
+    },
+    {
+        "question": "¿Cuántos tipos (grados) de quemaduras hay?",
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué material es obligatorio tener en un botiquín?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Qué tipo de riesgos existen en el trabajo?",
+        "answer": "daños físicos y daños psíquicos"
+    },
+    {
+        "question": "¿Qué se entiende por salud?",
+        "answer": "estado de bienestar físico, mental y social completo"
+    },
+    {
+        "question": "¿Qué se entiende por medida preventiva?",
+        "answer": "conjunto de actividades adoptadas para evitar o disminuir los riesgos derivados del trabajo"
+    },
+    {
+        "question": "clases de riesgos",
+        "answer": "morales, mecánicos, físicos,biológicos, químicos, psicológicos y sociales"
+    },
+    {
+        "question": "¿Qué tipo de enfermedad producen los riesgos físicos?",
+        "answer": "golpe de calor y sordera profesional"
+    },
+    {
+        "question": "¿Qué es un accidente in itinere?",
+        "answer": "aquel que se produce en el coche durante el trayecto habitual entre el trabajo y nuestro domicilio"
+    },
+    {
+        "question": "¿qué es un contaminante?",
+        "answer": "agente causante de la enfermedad profesional"
+    },
+    {
+        "question": "factores que determinan la enfermedad profesional",
+        "answer": "ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Que es un daño profesional?",
+        "answer": "enfermedad, patología o lesión sufrida en el trabajo"
+    },
+    {
+        "question": "El concepto de salud incluye:",
+        "answer": "salud social, física y psiquica"
+    },
+    {
+        "question": "¿Cómo se clasifican los daños profesionales?",
+        "answer": "todas las respuestas son correctas"
+    },
+    {
+        "question": "El accidente de trabajo se define en",
+        "answer": "articulo 115 de la ley general de la seguridad social"
+    },
+    {
+        "question": "¿Cuales son las causas humanas de los accidentes de trabajo?",
+        "answer": "los daños que sufre un trabajador por falta de información, formación, atención o interés"
+    },
+    {
+        "question": "según el artículo 116 de la ley general de la seguridad social ¿como se define la enfermedad profesional?",
+        "answer": "la contraída a consecuencia del trabajo ejecutado por cuenta ajena en las actividades que se especifique en el cuadro que se aprueba"
+    },
+    {
+        "question": "¿cual es el origen de las lesiones musculo esqueléticas?",
+        "answer": "la manipulación de cargas y los movimientos repetitivos"
+    },
+    {
+        "question": "¿ Qué es la fatiga profesional?",
+        "answer": "Desgaste que sufre un trabajador debido a un exceso de trabajo que no es compensado con el descanso"
+    },
+    {
+        "question": "¿En que trabajadores se presenta el envejecimiento prematuro?",
+        "answer": "En los trabajadores expuestos a altas temperaturas o sometidos a grandes dosis de fatiga en todas sus variantes"
+    },
+    {
+        "question": "¿Que es la insatisfacción laboral?",
+        "answer": "Es la sensación de falta de gratificación que siente la persona con respecto a sus funciones y entorno de trabajo"
+    },
+    {
+        "question": "¿Cual es la ley de prevención de riesgos laborales?",
+        "answer": "31/1995 de 8 de noviembre"
+    },
+    {
+        "question": "¿Cual es el objetivo de la ley de prevención de riesgos laborales?",
+        "answer": "Promover la seguridad y salud de los trabajadores"
+    },
+    {
+        "question": "¿Que es un riesgo laboral?",
+        "answer": "Posibilidad de que un trabajador sufra un daño es su trabajo"
+    },
+    {
+        "question": "¿Cual es objetivo de la política preventiva?",
+        "answer": "promover la mejora de las condiciones de trabajo"
+    },
+    {
+        "question": "¿Cuales son las funciones de las administraciones públicas en materia de prevención de riesgos laborales?",
+        "answer": "ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Cual de las siguiente funciones en materia de prevención no corresponde a la inspección de trabajo?",
+        "answer": "asesoramiento técnico en la elaboración de normativa legal"
+    },
+    {
+        "question": "el capitulo III de la ley de prevención, nos habla de",
+        "answer": "derechos y obligaciones de los trabajadores"
+    },
+    {
+        "question": "En articulo 14 de la ley de prevención de riesgos laborales hace referencia a",
+        "answer": "Derecho a prevención de los trabajadores"
+    },
+    {
+        "question": "¿cual de los siguiente principios no es uno de la acción preventiva?",
+        "answer": "adaptar la persona al trabajo"
+    },
+    {
+        "question": "El plan de prevención debe",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "Los equipos de protección individual",
+        "answer": "Deberán utilizarse cuando los riesgos no se puedan evitar"
+    },
+    {
+        "question": "El empresario en cumplimiento de la ley 31/1995 deberá informar a sus trabajadores de:",
+        "answer": "De los riesgos para la seguridad y salud de los trabajadores"
+    },
+    {
+        "question": "El empresario teniendo en cuenta el tamaño y la actividad de la empresa",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "Las medidas de vigilancia de la salud de los trabajadores serán siempre:",
+        "answer": "Se llevaran a cabo respetando siempre el derecho a la intimidad del trabajador y la información referente a su estado de salud sera confidencial"
+    },
+    {
+        "question": "¿Que obligaciones tienen los trabajadores en materia de prevención?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Puede el empresario asumir personalmente la prevención?",
+        "answer": "En las empresas de menos de 10 trabajadores, siempre que desarrolle su actividad en el mismo centro de trabajo y tenga la capacidad necesia"
+    },
+    {
+        "question": "¿Que es un servicio de prevención ajeno (SPA)?",
+        "answer": "Empresa externa que se encarga de llevar a cabo las actividades preventivas en nuestra empresa"
+    },
+    {
+        "question": "¿Cuando es necesaria la presencia de un recurso preventivo en la empresa?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿cuantos delegados de prevención habrá en una empresa con 42 trabajadores?",
+        "answer": "1 delegado de prevención"
+    },
+    {
+        "question": "El Comité de seguridad y salud en la empresa estará formado por:",
+        "answer": "Delegado de prevención y por el empresario"
+    },
+    {
+        "question": "¿En qué consiste la protección frente a incendios?",
+        "answer": "Recoge una serie de medidas técnicas y de actuación para controlar el avance del incendio y minimizar sus efectos"
+    },
+    {
+        "question": "Los sistemas de protección pasiva se basan en",
+        "answer": "Las condiciones de diseño que deben cumplir los inmuebles para garantizar que el incendio no se propague de forma inmediata"
+    },
+    {
+        "question": "Evitar que el fuego alcance zonas limitrofes y la reducción de los daños causado en el inmueble, en las personas que lo ocupan y en los edificios o zonas contiguas son:",
+        "answer": "Sistemas de protección pasiva"
+    },
+    {
+        "question": "¿Qué se entiende por sector de incendios?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "Debe de existir señalización en:",
+        "answer": "Las salidas del recinto, planta o edifico, dirección a seguir durante la evacuación y puertas que no sean de salida"
+    },
+    {
+        "question": "Las señales de salvamento o socorro son:",
+        "answer": "Rectangulares o cuadradas"
+    },
+    {
+        "question": "Los factores relevantes del entorno de los edificios e instalaciones industriales son:",
+        "answer": "Condiciones de aproximación y entorno del edificio, de accesibilidad por la fachada, redes hidrantes exteriores y riesgos interiores"
+    },
+    {
+        "question": "Los detectores del incendio pueden ser:",
+        "answer": "Humos, llamas, calor o temperatura"
+    },
+    {
+        "question": "¿Qué recoge la protección activa?",
+        "answer": "Medios e instalaciones de detección, alarma y extinción de incendios"
+    },
+    {
+        "question": "¿Cómo pueden ser los medios e instalaciones de detección, alarma y extinción?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Cuáles son las metas de un Plan de Autoprotección?",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Cuáles son los factores de riesgo propios de las personas?",
+        "answer": "La densidad de ocupación, características de los ocupantes, existencia de personal foráneo y limitaciones lumínicas"
+    },
+    {
+        "question": "¿A qué se refiere el personal foráneo?",
+        "answer": "Edificios ocupados casi en su totalidad de aforo con personas que no los usan habitualemente y no están familiarizadas con los mismos"
+    },
+    {
+        "question": "¿Cómo se estructura el plan de autoprotección?",
+        "answer": "Evaluación de riesgo, medios de protección plan de emergencia e implantación"
+    },
+    {
+        "question": "¿Cuáles son los tipos de equipos de emergencia?",
+        "answer": "Ambas son correctas"
+    },
+    {
+        "question": "¿Dónde actúa el jefe de intervención?",
+        "answer": "Desde el punto de emergencia"
+    },
+    {
+        "question": "El jefe de emergencia",
+        "answer": "Estará localizable las 24 horas del día"
+    },
+    {
+        "question": "¿Cada cuánto se efectúa un simulacro?",
+        "answer": "Al menos una vez al año"
+    },
+    {
+        "question": "Si detectamos un incendio debemos",
+        "answer": "Tratar de localizar el origen del incendio, sin ponernos nerviosos"
+    },
+    {
+        "question": "¿Por dónde debe comenzar la evacuación?",
+        "answer": "Por la planta afectada"
+    },
+    {
+        "question": "Gran parte de los coronavirus no son peligrosos, excepto este del que no se tenía conocimiento, van desde los simples resfriados a un síndrome de respiración grave (neumonía)",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Se desconoce el origen de estos virus, pero hay estudios que indican que ciertos animales como los murciélagos actúan como reservorios",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Este nuevo coronavirus llamado COVID 19, también conocido como coronavirus de Wuhan tiene procedencia en un laboratorio en Europ",
+        "answer": "Falso"
+    },
+    {
+        "question": "Se cree que el coronavirus del SARS tuvo su origen en los humanos",
+        "answer": "Falso"
+    },
+    {
+        "question": "Una de la sintomatología del coronavirus es el dolor de las extremidades",
+        "answer": "Falso"
+    },
+    {
+        "question": "Alrededor del 80% de las personas que contraen el virus presentan síntomas leves",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Se transmiten por vía respiratoria a través de las gotas que producen los portadores cuando tosen, estornudan o hablan",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Las distancias entre trabajador y trabajador deberán ser como mínimo de 3 metros",
+        "answer": "Falso"
+    },
+    {
+        "question": "Hay que tener mucho cuidado en el uso de mascarilla y guantes ya que nos dan la famosa FALSA SEGURIDAD",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Deberás evitar los viajes",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Aunque tengas síntomas de coronavirus deberás de ir al trabajo",
+        "answer": "Falso"
+    },
+    {
+        "question": "Deberás tener cuidado al estornudar y toser",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "No será necesario limpiar las superficies porque el virus solo esta en el aire",
+        "answer": "Falso"
+    },
+    {
+        "question": "Es importante lavarse las manos",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Los mayores deberán salir a zonas concurridas",
+        "answer": "Falso"
+    },
+    {
+        "question": "Se recomienda ventilar las zonas cerradas todos los dias",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Hay que desinfectar el material que usa más de una persona",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "La situación de confinamiento en casa durante varios días puede generar mucho malestar psicológico",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Deberás evitar la sobreinformación",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Deberás afrontar la situación de forma negativa",
+        "answer": "Falso"
+    },
+    {
+        "question": "Se recomienda utilizar la tecnología",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Se recomienda mantenerse activo",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "No es necesario hacer rutinas diarias",
+        "answer": "Falso"
+    },
+    {
+        "question": "Se recomienda ayudarse mutuamente",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "En caso de deterioro de los equipo de protección suministrados por el empresario",
+        "answer": "Solicitar su reposición"
+    },
+    {
+        "question": "En caso de ingesta tóxica, señala la respuesta incorrecta:",
+        "answer": "Si está consciente, provocar el vómito"
+    },
+    {
+        "question": "Los objetivos de la vigilancia de la salud son (señalar la respuesta incorrecta):",
+        "answer": "Ambas son incorrectas"
+    },
+    {
+        "question": "¿De qué se encarga la vigilancia de la salud?",
+        "answer": "De mejorar las condiciones de trabajo"
+    },
+    {
+        "question": "¿Qué debe hacer un empresario?",
+        "answer": "Debe seguir permanentemente la actividad preventiva"
+    },
+    {
+        "question": "¿De qué se encarga la planificación preventiva?",
+        "answer": "Ambas son correctas"
+    },
+    {
+        "question": "¿Quién debe solicitar un Servicio de Prevención Ajeno?",
+        "answer": "El empresario"
+    },
+    {
+        "question": "¿Tiene el trabajador derecho a solicitar su historial clínicolaboral?",
+        "answer": "Si, cuando finalice su contrato se le dará información siempre que lo solicite"
+    },
+    {
+        "question": "¿Que se entiende por seguridad vial?",
+        "answer": "Supone la prevención de accidentes de tráfico con el objetivo de proteger la vida de las personas"
+    },
+    {
+        "question": "¿Cómo se divide la seguridad vial?",
+        "answer": "Primaria, secundaria y terciaria"
+    },
+    {
+        "question": "Serán de color amarillo las marcas viales",
+        "answer": "Las que se encuentran en un bordillo o junto al borde de la calzada o de la zona peatonal para indicar prohibición o restricción de la parada o estacionamiento"
+    },
+    {
+        "question": "¿A qué velocidad hay que circular en toda vía en poblado salvo que se marque lo contrario?",
+        "answer": "60km/h"
+    },
+    {
+        "question": "Cuando una marca consiste en una línea longitudinal continua adosada a otra discontinua, los conductures deben tener en cuenta:",
+        "answer": "No más que la línea situada del lado por el que circulan"
+    },
+    {
+        "question": "Las marcas transversales discontinuas se ponen cuando",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Cuál será el ángulo exterior en la punta de los carteles flecha?",
+        "answer": "75º"
+    },
+    {
+        "question": "¿Cuáles son los tipos de hitos de arista?",
+        "answer": "Tipo I y tipo II"
+    },
+    {
+        "question": "Mientras uno conduce debe",
+        "answer": "Ambas respuestas son correctas"
+    },
+    {
+        "question": "¿Qué es un accidente en misión?",
+        "answer": "El que sufre un trabajador en el trayecto que tiene que realizar para dar cumplimiento a una misión, así como el sufrido en el desarrollo de esta dentro de la jornada de trabajo"
+    }
+]
